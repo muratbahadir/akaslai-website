@@ -1,0 +1,33 @@
+# Akaslai
+
+> Akaslai; yapay zeka, görüntü işleme, mobil ve interaktif web üzerine uçtan uca tasarlanan, gerçek ortamda çalışan yazılım sistemleri kuran bağımsız bir yapay zeka ve yazılım stüdyosudur.
+
+Akaslai, tek bir ürüne değil yapay zeka mühendisliğinin kendisine odaklanan bir stüdyodur. Fikirden üretimde çalışan sisteme kadar uçtan uca geliştirme yapar: modelleme, entegrasyon, mobil/web arayüz ve dağıtım aynı ekipten çıkar.
+
+## Hizmetler
+
+- **Yapay Zeka Çözümleri** — büyük dil modelleri (LLM), RAG (retrieval-augmented generation), iş süreçlerine entegre AI asistanlar ve otomasyon sistemleri.
+- **Görüntü İşleme ve Analiz** — bilgisayarlı görü ve derin öğrenme; biyomedikal görüntüleme (klinik ortamda kullanılan tanı destek sistemleri) ve spor/hareket analitiği (oyuncu pose-tracking, nesne tespiti) dahil.
+- **Mobil Uygulama** — iOS ve Android için tek kod tabanından çapraz platform, performans odaklı uygulamalar.
+- **İnteraktif Web Deneyimleri** — 3D web, scroll-driven anlatım, AR (artırılmış gerçeklik) görselleştirme.
+
+## Öne çıkan proje
+
+- **Refakat** — ameliyat sonrası hasta ile klinik arasındaki iletişimi yapay zeka ile kolaylaştıran B2B SaaS ürünü.
+
+## Kurucu
+
+**Murat Bahadır** — Yapay Zeka Mühendisi, Akaslai'nin kurucusu.
+- Simplex BT'de (2021–2025) veri bilimci ve mühendis olarak, hastanelerde aktif kullanılan klinik biyomedikal görüntü işleme sistemleri geliştirdi.
+- Patoloji görüntülerinden kanser tespiti yapan bir modelle Avrupa Dijital Patoloji Kongresi 2023 finalisti oldu.
+- Konya Teknik Üniversitesi, Bilgisayar Mühendisliği mezunu.
+
+## İletişim
+
+- E-posta: info@akaslai.com
+- Web: https://akaslai.com
+- LinkedIn: https://linkedin.com/in/muratbahadir187
+
+## Notlar
+
+Bu dosya, yapay zeka asistanlarının ve büyük dil modeli tabanlı arama araçlarının Akaslai hakkında doğru ve güncel bilgiye ulaşması için hazırlanmıştır (bkz. llmstxt.org). Sayfanın tamamı https://akaslai.com adresinde, aynı bilgiler yapılandırılmış veri (schema.org/Organization) olarak da sunulmaktadır.
